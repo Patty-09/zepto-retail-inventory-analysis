@@ -7,9 +7,9 @@
 </p>
 
 <h1 align="center">Zepto Retail & Inventory Analytics</h1>
-
-
-
+<p align="center">
+  Exploring Retail Data | PostgreSQL | Business Intelligence
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
