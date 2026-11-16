@@ -1,3 +1,16 @@
+<p align="center">
+  <img
+    src="https://cdn.zeptonow.com/web-static-assets-prod/artifacts/15.12.0/images/header/primary-logo.svg"
+    alt="Zepto Logo"
+    width="160"
+  />
+</p>
+
+<h1 align="center">Zepto Retail & Inventory Analytics</h1>
+
+<p align="center">
+  Exploring Retail Data | PostgreSQL | Business Intelligence
+</p>
 # 🛒 Zepto Retail & Inventory Analytics
 ### Exploring Retail Data | PostgreSQL | Business Intelligence
 
